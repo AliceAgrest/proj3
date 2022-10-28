@@ -16,7 +16,6 @@ namespace proj3
                     Console.WriteLine("The divisible number with 3 and 7 is "+ i);
                     numcount++;
                 }
-                //Console.WriteLine("the count numbers that divisble with 3 and 7 between 1-100 are " + numcount);
             }
             Console.WriteLine("the count numbers that divisble with 3 and 7 between 1-100 are " + numcount);
 
