@@ -1,0 +1,15 @@
+/Users/Alice/Projects/proj3/proj3/bin/Debug/net6.0/proj3
+/Users/Alice/Projects/proj3/proj3/bin/Debug/net6.0/proj3.deps.json
+/Users/Alice/Projects/proj3/proj3/bin/Debug/net6.0/proj3.runtimeconfig.json
+/Users/Alice/Projects/proj3/proj3/bin/Debug/net6.0/proj3.dll
+/Users/Alice/Projects/proj3/proj3/bin/Debug/net6.0/proj3.pdb
+/Users/Alice/Projects/proj3/proj3/obj/Debug/net6.0/proj3.csproj.AssemblyReference.cache
+/Users/Alice/Projects/proj3/proj3/obj/Debug/net6.0/proj3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alice/Projects/proj3/proj3/obj/Debug/net6.0/proj3.AssemblyInfoInputs.cache
+/Users/Alice/Projects/proj3/proj3/obj/Debug/net6.0/proj3.AssemblyInfo.cs
+/Users/Alice/Projects/proj3/proj3/obj/Debug/net6.0/proj3.csproj.CoreCompileInputs.cache
+/Users/Alice/Projects/proj3/proj3/obj/Debug/net6.0/proj3.dll
+/Users/Alice/Projects/proj3/proj3/obj/Debug/net6.0/refint/proj3.dll
+/Users/Alice/Projects/proj3/proj3/obj/Debug/net6.0/proj3.pdb
+/Users/Alice/Projects/proj3/proj3/obj/Debug/net6.0/proj3.genruntimeconfig.cache
+/Users/Alice/Projects/proj3/proj3/obj/Debug/net6.0/ref/proj3.dll
