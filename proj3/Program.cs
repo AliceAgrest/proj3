@@ -5,14 +5,8 @@ namespace proj3
     internal class Program
     {
         static void Main(string[] args)
-<<<<<<< HEAD
         {
             //answer1
-            /*
-=======
-        {//answer1
-
->>>>>>> 7d6d562ad6e54969aed387b3079361f6900e0d84
             int numcount = 0 ;
             
             for (int i = 1; i <= 100; i++)
@@ -124,11 +118,6 @@ namespace proj3
             }
             if(isPrimeNumber == 0)
                 Console.WriteLine("1");
-<<<<<<< HEAD
-            */
-=======
-
->>>>>>> 7d6d562ad6e54969aed387b3079361f6900e0d84
             //answer9
             int n, a;
 
@@ -138,10 +127,6 @@ namespace proj3
             a = int.Parse(Console.ReadLine());
 
             bool flag = true;
-<<<<<<< HEAD
-            // bool flag1 = false;
-=======
->>>>>>> 7d6d562ad6e54969aed387b3079361f6900e0d84
             for (int i = 0; i <= n; i++)
             {
                 Console.WriteLine("Enter a number ");
